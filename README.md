@@ -1,2 +1,2 @@
-# EDA
-My first repository
+# EDA-ON-COURSERA-
+EXPLORATORY DATA ANALYSIS ON COURSES ACCESSIBLE ON COURSERA PLATFORM In this project we are going to perform an exploratory data analysis on the courses that are available on Coursera platform. Coursera Inc. is an American massive open online course provider founded in 2012 by Stanford University computer science professors Andrew Ng and Daphne Koller. Coursera works with universities and other organizations to offer online courses, certifications, and degrees in a variety of subjects.
